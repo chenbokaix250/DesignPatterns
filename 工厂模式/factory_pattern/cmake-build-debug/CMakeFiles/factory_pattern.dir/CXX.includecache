@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bokaichen/c++_primer/factory_pattern/Factory.cpp
+Factory.h
+/Users/bokaichen/c++_primer/factory_pattern/Factory.h
+Product.h
+/Users/bokaichen/c++_primer/factory_pattern/Product.h
+iostream
+-
+
+/Users/bokaichen/c++_primer/factory_pattern/Factory.h
+
+/Users/bokaichen/c++_primer/factory_pattern/Product.h
+

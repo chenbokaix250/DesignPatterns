@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bokaichen/c++_primer/abstractFactory/AbstractFactory.cpp
+AbstractFactory.h
+/Users/bokaichen/c++_primer/abstractFactory/AbstractFactory.h
+
+/Users/bokaichen/c++_primer/abstractFactory/AbstractFactory.h
+apple.h
+/Users/bokaichen/c++_primer/abstractFactory/apple.h
+banana.h
+/Users/bokaichen/c++_primer/abstractFactory/banana.h
+pear.h
+/Users/bokaichen/c++_primer/abstractFactory/pear.h
+
+/Users/bokaichen/c++_primer/abstractFactory/apple.h
+iostream
+-
+
+/Users/bokaichen/c++_primer/abstractFactory/banana.cpp
+banana.h
+/Users/bokaichen/c++_primer/abstractFactory/banana.h
+
+/Users/bokaichen/c++_primer/abstractFactory/banana.h
+iostream
+-
+
+/Users/bokaichen/c++_primer/abstractFactory/main.cpp
+iostream
+-
+AbstractFactory.h
+/Users/bokaichen/c++_primer/abstractFactory/AbstractFactory.h
+
+/Users/bokaichen/c++_primer/abstractFactory/pear.h
+iostream
+-
+
