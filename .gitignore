@@ -32,4 +32,6 @@
 *.app
 
 
-cmake-build
+cmake-build*
+.DS_Store*
+.idea*
