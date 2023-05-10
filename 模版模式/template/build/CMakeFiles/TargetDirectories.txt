@@ -1,0 +1,3 @@
+/home/nirvana/NET_X/template/build/CMakeFiles/rebuild_cache.dir
+/home/nirvana/NET_X/template/build/CMakeFiles/edit_cache.dir
+/home/nirvana/NET_X/template/build/CMakeFiles/template_pattern.dir

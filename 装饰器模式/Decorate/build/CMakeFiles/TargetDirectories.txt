@@ -1,0 +1,3 @@
+/home/nirvana/NET_X/Decorate/build/CMakeFiles/rebuild_cache.dir
+/home/nirvana/NET_X/Decorate/build/CMakeFiles/edit_cache.dir
+/home/nirvana/NET_X/Decorate/build/CMakeFiles/decorate_pattern.dir

@@ -1,0 +1,3 @@
+/home/nirvana/NET_X/Composite/build/CMakeFiles/rebuild_cache.dir
+/home/nirvana/NET_X/Composite/build/CMakeFiles/edit_cache.dir
+/home/nirvana/NET_X/Composite/build/CMakeFiles/composite_pattern.dir

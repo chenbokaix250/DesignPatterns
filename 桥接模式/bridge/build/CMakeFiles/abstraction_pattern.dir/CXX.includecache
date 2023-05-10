@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nirvana/NET_X/bridge/Abstraction.cpp
+Abstraction.h
+/home/nirvana/NET_X/bridge/Abstraction.h
+AbstractionImp.h
+/home/nirvana/NET_X/bridge/AbstractionImp.h
+iostream
+-
+
+/home/nirvana/NET_X/bridge/Abstraction.h
+
+/home/nirvana/NET_X/bridge/AbstractionImp.cpp
+AbstractionImp.h
+/home/nirvana/NET_X/bridge/AbstractionImp.h
+iostream
+-
+
+/home/nirvana/NET_X/bridge/AbstractionImp.h
+
+/home/nirvana/NET_X/bridge/main.cpp
+Abstraction.h
+/home/nirvana/NET_X/bridge/Abstraction.h
+AbstractionImp.h
+/home/nirvana/NET_X/bridge/AbstractionImp.h
+iostream
+-
+

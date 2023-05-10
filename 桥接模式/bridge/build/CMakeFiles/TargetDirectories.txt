@@ -1,0 +1,3 @@
+/home/nirvana/NET_X/bridge/build/CMakeFiles/rebuild_cache.dir
+/home/nirvana/NET_X/bridge/build/CMakeFiles/edit_cache.dir
+/home/nirvana/NET_X/bridge/build/CMakeFiles/abstraction_pattern.dir

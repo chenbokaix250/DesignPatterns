@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/composite_pattern.dir/main.cpp.o CMakeFiles/composite_pattern.dir/Composite.cpp.o  -o composite_pattern 

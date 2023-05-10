@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/fw_pattern.dir/main.cpp.o CMakeFiles/fw_pattern.dir/flyweight.cpp.o  -o fw_pattern 
