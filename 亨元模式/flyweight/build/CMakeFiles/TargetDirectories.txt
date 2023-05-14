@@ -1,3 +1,0 @@
-/home/nirvana/NET_X/flyweight/build/CMakeFiles/rebuild_cache.dir
-/home/nirvana/NET_X/flyweight/build/CMakeFiles/edit_cache.dir
-/home/nirvana/NET_X/flyweight/build/CMakeFiles/fw_pattern.dir

@@ -1,3 +1,0 @@
-/home/nirvana/NET_X/observer/build/CMakeFiles/rebuild_cache.dir
-/home/nirvana/NET_X/observer/build/CMakeFiles/edit_cache.dir
-/home/nirvana/NET_X/observer/build/CMakeFiles/observer_pattern.dir

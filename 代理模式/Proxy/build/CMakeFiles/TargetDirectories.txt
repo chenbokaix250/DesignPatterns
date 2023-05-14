@@ -1,3 +1,0 @@
-/home/nirvana/NET_X/Proxy/build/CMakeFiles/rebuild_cache.dir
-/home/nirvana/NET_X/Proxy/build/CMakeFiles/edit_cache.dir
-/home/nirvana/NET_X/Proxy/build/CMakeFiles/proxy_pattern.dir

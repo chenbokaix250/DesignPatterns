@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/adapter_pattern.dir/main.cpp.o CMakeFiles/adapter_pattern.dir/Adapter.cpp.o  -o adapter_pattern 

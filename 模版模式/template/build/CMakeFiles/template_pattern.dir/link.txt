@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/template_pattern.dir/main.cpp.o  -o template_pattern 

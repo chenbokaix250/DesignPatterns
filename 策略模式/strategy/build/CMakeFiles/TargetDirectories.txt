@@ -1,3 +1,0 @@
-/home/nirvana/NET_X/strategy/build/CMakeFiles/rebuild_cache.dir
-/home/nirvana/NET_X/strategy/build/CMakeFiles/edit_cache.dir
-/home/nirvana/NET_X/strategy/build/CMakeFiles/strategy_pattern.dir
