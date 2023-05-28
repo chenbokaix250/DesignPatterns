@@ -29,6 +29,9 @@
 * [组合实体模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E7%BB%84%E5%90%88%E5%AE%9E%E4%BD%93%E6%A8%A1%E5%BC%8F)
 * [亨元模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E4%BA%A8%E5%85%83%E6%A8%A1%E5%BC%8F/flyweight)
 * [外观模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F)
+
+## 行为型
+
 * [模版模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E6%A8%A1%E7%89%88%E6%A8%A1%E5%BC%8F)
 * [策略模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F)
 * [状态模式]()
@@ -40,4 +43,6 @@
 * [责任链模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/chain_of_responsibility)
 * [迭代器模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F/iterator)
 * [解释器模式](https://github.com/chenbokaix250/DesignPatterns/tree/main/%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F/Interpreter)
+
+---
 
